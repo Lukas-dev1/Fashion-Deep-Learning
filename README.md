@@ -7,8 +7,9 @@ This project uses deep learning to classify images from the [FashionMNIST datase
 ## Files in this Repository
 
 - **`Fashion Deep learning.ipynb`**: Jupyter notebook that contains the training process for the deep learning model, including dataset preparation, model setup, and training loop.
-- **`model_300.pth`**: The saved PyTorch model file after training. You can load this model for inference or further testing.
+- **`model_300.pth`**: The saved PyTorch model file i made after 300 epoch training. You can load this model for inference or further testing.
 - **`model_testing.py`**: Python script for testing the trained model on new data or the test set.
+- **`bilder`**: A folder to put in images to load. model_testing.py is dynamic so you can just put in pictures in this folder.
 
 ## Setup Instructions
 
