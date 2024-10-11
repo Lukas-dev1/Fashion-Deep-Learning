@@ -1,4 +1,5 @@
-![Model Architecture](https://ibb.co/VDfnJZq)
+![Alt text](https://i.ibb.co/y5Hvd1Q/Figure-1.webp)
+
 
 # FashionMNIST Deep Learning Project
 
