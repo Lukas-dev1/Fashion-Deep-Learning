@@ -1,8 +1,9 @@
-![Alt text](https://i.ibb.co/y5Hvd1Q/Figure-1.webp)
+
 
 
 # FashionMNIST Deep Learning Project
-
+Example of model_testing.py
+![Example](https://i.ibb.co/y5Hvd1Q/Figure-1.webp)
 This project uses deep learning to classify images from the [FashionMNIST dataset](https://github.com/zalandoresearch/fashion-mnist). The dataset contains 28x28 grayscale images of various clothing items, and this model aims to classify them into one of 10 categories.
 
 ## Files in this Repository
